@@ -1,0 +1,8 @@
+D:\Figura\bin\Debug\Figura.exe.config
+D:\Figura\bin\Debug\Figura.exe
+D:\Figura\bin\Debug\Figura.pdb
+D:\Figura\obj\Debug\Figura.csproj.AssemblyReference.cache
+D:\Figura\obj\Debug\Figura.csproj.SuggestedBindingRedirects.cache
+D:\Figura\obj\Debug\Figura.csproj.CoreCompileInputs.cache
+D:\Figura\obj\Debug\Figura.exe
+D:\Figura\obj\Debug\Figura.pdb
